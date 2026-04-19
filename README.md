@@ -1,4 +1,4 @@
-# 🎥 CYX Studio | Multi Cam Monitor Pro
+# 🎥 CYX Studio | Multi Cam Monitor
 
 > **High-Performance WebRTC Multi-Camera System with Cinematography UI.**
 >
